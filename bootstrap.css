@@ -1,0 +1,43 @@
+/* STYLING OF - BOOTSTRAP.HTML , STARTUP.HTMAL*/
+
+.form-group{
+    background-color: rgba(0,255,0,0.3);
+}
+
+.btn-danger{
+    background-color: orange;
+}
+
+.btn-danger:hover{
+    background-color: aqua;
+}
+
+.form-control{
+    background-color: rgba(255,0,0,0.2);
+}
+
+.col{
+    background-color: lightcyan;
+    border: 3px solid black;
+}
+
+body{
+    background-image: url(Background%20images/back.jpg);
+    background-size: cover;
+}
+
+#go{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 200%;
+    border-bottom: 4px dotted black;
+}
+
+.but{
+    background-color: aqua;
+    font-size: 250%;
+}
+
+.but:hover{
+    background-color: white;
+}
